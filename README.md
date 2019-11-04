@@ -1,8 +1,8 @@
 # [Ionic 4 | In App Browser | Abrir navegador web dentro y fuera de aplicación](https://www.youtube.com/watch?v=YWeNCNT0qkA)
 
-<img src="https://github.com/martha-softwaredeveloper/Ionic4-TabBar/blob/master/src/assets/ionic4-tab-bar_screenshot.png" width="500"/>
+<img src="https://github.com/martha-softwaredeveloper/Ionic4-InAppBrowser/blob/master/src/assets/screenshot1.png" width="500"/>
 
-<img src="https://github.com/martha-softwaredeveloper/Ionic4-TabBar/blob/master/src/assets/ionic4-tab-bar_screenshot.png" width="500"/>
+<img src="https://github.com/martha-softwaredeveloper/Ionic4-InAppBrowser/blob/master/src/assets/screenshot2.png" width="500"/>
 
 ## Installation
 

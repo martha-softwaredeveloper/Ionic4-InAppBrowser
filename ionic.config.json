@@ -1,5 +1,7 @@
 {
   "name": "Ionic4-InAppBrowser",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
